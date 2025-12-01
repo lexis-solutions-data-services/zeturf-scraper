@@ -3,7 +3,8 @@ import { ApifyClient } from 'apify-client';
 /**
  * Example: How to call the zeturf-scraper actor using Apify API Client
  *
- * For full documentation, see: https://docs.apify.com/api/client/js/docs
+ * For full documentation of the Apify Client for JavaScript, see: https://docs.apify.com/api/client/js
+ * For full documentation of the actor, see: https://apify.com/lexis-solutions/zeturf-scraper
  *
  * Note: This example uses the Apify API Client (apify-client) to call actors from external code.
  * If you want to create Actors, use the Apify SDK (apify) instead.

@@ -22,9 +22,7 @@ pip install -r requirements.txt
 
 2. Get your Apify API token:
 
-```bash
-https://console.apify.com/account/integrations
-```
+[Go to Apify Console](https://console.apify.com/account/integrations)
 
 4. Run the example:
 
