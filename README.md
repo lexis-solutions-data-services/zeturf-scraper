@@ -20,13 +20,30 @@ Automate horse racing data extraction from Zeturf.fr, France's premier horse rac
 | Stat | Value |
 |------|-------|
 | **Version** | `0.0.11` |
-| **Last Update** | Nov 30, 2025 |
+| **Last Update** | Dec 1, 2025 |
 
 ---
 
 
 
 The Zeturf.fr Scraper is a web scraping tool designed to extract horse racing data from zeturf.fr. It was created to make it easier for horse racing enthusiasts, bettors, and researchers to access and analyze race results, programme data, and racing statistics from France's premier horse racing platform.
+
+
+## 💻 Integration Examples
+
+This repository includes example code showing how to integrate the `zeturf-scraper` actor into your projects.
+
+You can find example implementations in the [`examples/`](./examples) folder:
+- **TypeScript/JavaScript**: See [`examples/typescript/`](./examples/typescript) for a complete TypeScript example
+- **Python**: See [`examples/python/`](./examples/python) for a complete Python example
+
+Each example includes:
+- Ready-to-use code templates
+- Setup instructions
+- Documentation links
+
+---
+
 
 ## Use Cases
 
