@@ -13,25 +13,27 @@ If you want to create Actors, use the `apify` SDK package instead.
 npm install
 ```
 
-2. Set your Apify API token:
+2. Get your Apify API token:
+
+```bash
+https://console.apify.com/account/integrations
+```
+
+3. Set your Apify API token:
 
 ```bash
 export APIFY_TOKEN=your_apify_token_here
 ```
 
-3. Copy the template file and run it:
+3. Run the example:
 
 ```bash
-cp index.ts.template index.ts
 npm start
 ```
-
-## Customization
-
-Edit `index.ts.template` (or copy it to `index.ts` and edit) to customize the input parameters based on your actor's input schema.
 
 ## Documentation
 
 For complete documentation on using the Apify API client for JavaScript/TypeScript, see:
-- [Apify API Client for JavaScript Documentation](https://docs.apify.com/api/client/js/docs)
+
+- [Apify API Client for JavaScript Documentation](https://docs.apify.com/api/client/js)
 - [Apify Platform Documentation](https://docs.apify.com/)
